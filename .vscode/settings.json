@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Kconfig": "makefile",
+        "stdio.h": "c"
+    }
+}
